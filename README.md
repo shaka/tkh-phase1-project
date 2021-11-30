@@ -87,7 +87,7 @@ FrontEnd:
 
 Backend:
 
-- JavSscript
+- JavaScript
 - Netlify
 
 
