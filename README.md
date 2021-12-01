@@ -1,4 +1,4 @@
-# <img src="logo.png">
+# <img src="src/images/logos/logo.png">
 
 
 [ You Got This Dev](http://github.com/George-Sucuzhanay) is a fully functional web app with the utilization of public api's. It was designed by our team as part of our Phase 1 Group Project. We built it during the 2021-2022 Full-Stack Progressive Web Development Bootcamp at The Knowledge House. 
