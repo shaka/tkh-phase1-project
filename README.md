@@ -1,4 +1,5 @@
-# 👨‍💻 You Got This Dev! 👩‍💻
+# <img src="logo.png">
+
 
 [ You Got This Dev](http://github.com/George-Sucuzhanay) is a fully functional web app with the utilization of public api's. It was designed by our team as part of our Phase 1 Group Project. We built it during the 2021-2022 Full-Stack Progressive Web Development Bootcamp at The Knowledge House. 
 
@@ -18,7 +19,7 @@ With the newly redesigned app, use the interactive and intuitive interface to ea
 - 
 ## Color Guide
 
-<img src="https://github.com/marymacmurray/done4today/blob/develop/color-palette.png">
+<img src="Project-Colors.png">
 
 ## Wireframes
 
@@ -28,7 +29,9 @@ With the newly redesigned app, use the interactive and intuitive interface to ea
 
 #### Desktop
 
-<img src="https://github.com/marymacmurray/done4today/blob/develop/desktop-mockup.png">
+<img src="mockup1.png">
+<img src="mockup2.png">
+
 
 ## 👩🏽‍🚀 Feature List
 
@@ -39,8 +42,6 @@ Features of You Got This Dev include:
 
 ### 🚀 MVP
 
-- User Auth(Sign in/Sign up/Auth view)
-- CRUD Operations
 - API's Used:
     - Dictum API
     - Affirmations API
@@ -61,21 +62,15 @@ Features of You Got This Dev include:
 
 ### Axios with Fetch API
 
-
 Pros of this model: 
 
 Cons of this model: 
-
-
-
 
 ### 🌟 Post-MVP:
 
 
 
 ### 🗒️ Component Hierarchy:
-
-
 
 ### 📦 Dependencies:
 
