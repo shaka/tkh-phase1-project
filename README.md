@@ -13,10 +13,7 @@ With the newly redesigned app, use the interactive and intuitive interface to ea
 - Get an affrimation assuring you that job!
 - Get targetted quotes from famous people you know
 
-## You Got This Dev! team:
 
-- George Sucuzhanay
-- 
 ## Color Guide
 
 <img src="Project-Colors.png">
@@ -84,5 +81,12 @@ Backend:
 
 - JavaScript
 - Netlify
+
+## You Got This Dev! team:
+
+| George Sucuzhanay                                                                                                                                                                   
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![LinkedIn](src/images/logos/linkedin-logo.svg)](https://www.linkedin.com/in/georgesucuzhanay/) [![GitHub](src/images/logos/github-logo.svg)](https://github.com/George-Sucuzhanay) |
+|                                                                                                                                                                                   |
 
 
