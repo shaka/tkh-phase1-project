@@ -16,7 +16,7 @@ With the newly redesigned app, use the interactive and intuitive interface to ea
 
 ## Color Guide
 
-<img src="Project-Colors.png">
+<img src="src/images/Project-Colors.png">
 
 ## Wireframes
 
@@ -26,8 +26,8 @@ With the newly redesigned app, use the interactive and intuitive interface to ea
 
 #### Desktop
 
-<img src="mockup1.png">
-<img src="mockup2.png">
+<img src="src/images/mockup1.png">
+<img src="src/images/mockup2.png">
 
 
 ## 👩🏽‍🚀 Feature List
